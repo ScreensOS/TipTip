@@ -1,6 +1,7 @@
 TipTip
 
-Copyright 2010 Drew Wilson
+2010 Drew Wilson
+2016 Daniell Mesquita
 
 http://www.drewwilson.com
 http://code.drewwilson.com/entry/tiptip-jquery-plugin
