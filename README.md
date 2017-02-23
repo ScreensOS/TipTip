@@ -1,8 +1,8 @@
 ## TipTip
 
-2010 Drew Wilson
+Copyright 2010 Drew Wilson
 
-2016 Daniell Mesquito
+2016-2017 Daniell Plasmmer
 
 http://www.drewwilson.com
 
